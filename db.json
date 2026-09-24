@@ -1,0 +1,179 @@
+{
+  "resumes": [
+    {
+      "fullName": "Arjun tg",
+      "location": "kochi",
+      "job": "Graphic Designer",
+      "email": "gk6646579@gmail.com",
+      "phone": "567684653",
+      "linkedin": "jhuujkijfjrk",
+      "github": "jjyhuilok sh",
+      "degree": "Bca",
+      "college": "calicut",
+      "year": "2025",
+      "skills": [
+        "Adobe Photoshop",
+        "Adobe Illustrator",
+        "Typography",
+        "Brand Identity Design",
+        "Layout Design",
+        "Color Theory",
+        "Creative Thinking",
+        "Visual Communication",
+        "Logo Design",
+        "Image Editing"
+      ],
+      "summary": "Creative graphic designer with expertise in visual communication, branding, and digital design. Skilled in using modern design tools to create compelling visual content.",
+      "id": "u7gU-38qTos"
+    },
+    {
+      "fullName": "Rahul Menon",
+      "location": "Kochi",
+      "job": "Frontend Developer",
+      "email": "rahulmenon@gmail.com",
+      "phone": "9876543210",
+      "linkedin": "linkedin.com/in/rahulmenon",
+      "github": "github.com/rahulmenon",
+      "degree": "BCA",
+      "college": "Mahatma Gandhi University",
+      "year": "2025",
+      "skills": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "React",
+        "Bootstrap",
+        "Git",
+        "Responsive Design",
+        "REST API",
+        "Tailwind CSS",
+        "UI Development"
+      ],
+      "summary": "Passionate frontend developer with experience in building responsive and user-friendly web applications. Skilled in modern frontend technologies with a strong interest in creating clean and interactive user interfaces.",
+      "id": "r8Kp-52LmXq"
+    },
+    {
+      "fullName": "Anjali Nair",
+      "location": "Trivandrum",
+      "job": "Software Developer",
+      "email": "anjalinair@gmail.com",
+      "phone": "8765432109",
+      "linkedin": "linkedin.com/in/anjalinair",
+      "github": "github.com/anjalinair",
+      "degree": "BCA",
+      "college": "University of Kerala",
+      "year": "2026",
+      "skills": [
+        "Java",
+        "Python",
+        "MySQL",
+        "JavaScript",
+        "React",
+        "Git",
+        "OOP",
+        "SQL",
+        "Problem Solving",
+        "REST API"
+      ],
+      "summary": "Enthusiastic software developer with a strong foundation in programming and database management. Interested in developing efficient applications and solving real-world problems using modern software technologies.",
+      "id": "n4Yt-91QwZp"
+    },
+    {
+      "fullName": "Vishnu Krishnan",
+      "location": "Calicut",
+      "job": "Backend Developer",
+      "email": "vishnukrishnan@gmail.com",
+      "phone": "7654321098",
+      "linkedin": "linkedin.com/in/vishnukrishnan",
+      "github": "github.com/vishnukrishnan",
+      "degree": "BCA",
+      "college": "University of Calicut",
+      "year": "2025",
+      "skills": [
+        "Node.js",
+        "Express.js",
+        "MongoDB",
+        "JavaScript",
+        "REST API",
+        "Git",
+        "SQL",
+        "Authentication",
+        "API Development",
+        "Database Management"
+      ],
+      "summary": "Backend developer focused on building reliable and scalable web applications. Skilled in server-side development, database management, and REST API development with a strong interest in creating efficient backend solutions.",
+      "id": "k7Lm-43PxRt"
+    },
+    {
+      "fullName": "rahul m.k",
+      "location": "kochi",
+      "job": "DevOps Engineer",
+      "email": "aarrjjuunn444@gmail.com",
+      "phone": "9087654567",
+      "linkedin": "linkedin.com/in/rahulmenon",
+      "github": "github.com/in/rahulmenon",
+      "degree": "Bca",
+      "college": "calicut",
+      "year": "2025",
+      "skills": [
+        "Docker",
+        "Kubernetes",
+        "CI/CD",
+        "AWS",
+        "Linux",
+        "Jenkins",
+        "Terraform",
+        "Git",
+        "Monitoring",
+        "Infrastructure as Code"
+      ],
+      "summary": "DevOps engineer experienced in automating deployment pipelines, managing cloud infrastructure, and improving software delivery processes through CI/CD practices.",
+      "id": "2"
+    }
+  ],
+  "downloads": [
+    {
+      "timestamp": "23/9/2026,9:45:55 am",
+      "resumeId": "u7gU-38qTos",
+      "resumeImg": "https://res.cloudinary.com/cm5xh0cq/image/upload/v1790136954/oxhmlet55vft0bbwdbpo.png",
+      "jobRole": "Graphic Designer",
+      "id": 3
+    },
+    {
+      "timestamp": "23/9/2026,11:00:35 am",
+      "resumeId": "n4Yt-91QwZp",
+      "resumeImg": "https://res.cloudinary.com/cm5xh0cq/image/upload/v1790141435/jyncvsp53mxj7m2fhlur.png",
+      "jobRole": "Software Developer",
+      "id": 4
+    },
+    {
+      "timestamp": "23/9/2026,11:00:50 am",
+      "resumeId": "r8Kp-52LmXq",
+      "resumeImg": "https://res.cloudinary.com/cm5xh0cq/image/upload/v1790141449/vb7lw3p1mghshf9xhmjw.png",
+      "jobRole": "Frontend Developer",
+      "id": 5
+    },
+    {
+      "timestamp": "23/9/2026,11:01:03 am",
+      "resumeId": "k7Lm-43PxRt",
+      "resumeImg": "https://res.cloudinary.com/cm5xh0cq/image/upload/v1790141462/z7oyla4uarm43tkjdjde.png",
+      "jobRole": "Backend Developer",
+      "id": 6
+    },
+    {
+      "timestamp": "23/9/2026,11:01:14 am",
+      "resumeId": "2",
+      "resumeImg": "https://res.cloudinary.com/cm5xh0cq/image/upload/v1790141474/qevbdg1cnpt5njayasf6.png",
+      "jobRole": "DevOps Engineer",
+      "id": 7
+    },
+    {
+      "timestamp": "23/9/2026,9:53:30 pm",
+      "resumeId": "u7gU-38qTos",
+      "resumeImg": "https://res.cloudinary.com/cm5xh0cq/image/upload/v1790180610/qldi80ttlcjtcyai8re1.png",
+      "jobRole": "Graphic Designer",
+      "id": 8
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
